@@ -7,10 +7,9 @@ public class Follow {
 
     @Override
     public String toString() {
-        // TODO Auto-generated method stub
-        return super.toString();
+        return word + "(" + count + ")";
     }
-    
+
     public Follow()
     {
 
